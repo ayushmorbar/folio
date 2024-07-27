@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
     title: ``,
-    description: `I'm an experienced Full Stack Developer based in Ballito, South Africa.`,
-    author: `@dale-french`,
+    description: `I'm an experienced AI/ML + SDE based in India.`,
+    author: `@ayushmorbar`,
   },
   plugins: [
     {

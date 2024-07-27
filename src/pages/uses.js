@@ -13,24 +13,22 @@ const UsesPage = () => (
       </h1>
       <h3>Hardware</h3>
       <ul>
-        <li>MacBook Pro (15-inch, 2018)</li>
-        <li>Sony WH-1000XM3 Headphones</li>
+        <li>ASUS TUF-15</li>
+        <li>BOAT Airdopes 131</li>
       </ul>
       <h3>Development</h3>
       <ul>
         <li>
-          VSCode is my preferred IDE. I do dabble around in Android Studio and
-          XCode when working on React Native projects.
+          VSCode is my preferred IDE. I do dabble around in Flutterflow and
+          IDX by Google when working on some projects.
         </li>
-        <li>iTerm 2 with zsh</li>
         <li>
           GitLab or GitHub for repos. Terminal or GitKraken for working with
           Git.
         </li>
-        <li>Zeplin for working with provided {`UI's`}</li>
         <li>Figma for the occasional UI design</li>
         <li>Postman for testing REST API endpoints</li>
-        <li>Slack for communication</li>
+        <li>Discord for communication</li>
       </ul>
     </Content>
     <Sticky />

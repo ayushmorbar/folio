@@ -6,42 +6,42 @@ import { Layout, Nav, SEO, Typist, Header } from "../components"
 const IndexPage = () => {
   return (
     <Layout>
-      <SEO title="Dale French - Full Stack Developer" />
+      <SEO title="Ayush Morbar - AI/ML and SWE" />
       <Header />
       <Section>
         <Nav to="/about/">
           <span>Who am I?</span>
         </Nav>
-        <h1>Dale French</h1>
+        <h1>Ayush Morbar</h1>
         <h2>
-          Full Stack Developer who likes building stuff with
+          Developer who likes building stuff with
           <br />
           <Typist />
         </h2>
 
         <Footer>
           <p>
-            © {new Date().getFullYear()} - Dale French
+            © {new Date().getFullYear()} - Ayush Morbar
             <br />
-            Built with{" "}
+              {" "}
             <a
-              href="https://www.gatsbyjs.org/"
+              href="https://www.linkedin.com/in/ayushmorbar/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Gatsby
+              LinkedIn
             </a>{" "}
-            • Hosted on{" "}
+            • {" "}
             <a
-              href="https://www.netlify.com/"
+              href="https://www.instagram.com/ayushmorbar/"
               target="_blank"
               rel="noopener noreferrer"
             >
-              Netlify
+              Instagram
             </a>{" "}
-            • Code on{" "}
+            • {" "}
             <a
-              href="https://github.com/dale-french/me"
+              href="https://github.com/ayushmorbar/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -64,7 +64,7 @@ const Section = styled.section`
   text-align: center;
   padding: 1.5rem 3rem;
   h1 {
-    color: ${theme.colors.blue};
+    color: ${theme.colors.green};
   }
   h2 {
     span {
@@ -79,7 +79,7 @@ const Section = styled.section`
 const Footer = styled.footer`
   padding-top: 2rem;
   a {
-    color: ${theme.colors.blue};
+    color: ${theme.colors.green};
     text-decoration-line: underline;
     text-decoration-style: dotted;
   }

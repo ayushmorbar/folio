@@ -11,18 +11,19 @@ const AboutPage = () => (
         <br />
         {`I'm`} an experienced
         <br />
-        <span>Full Stack Developer</span>
+        <span>AI/ML Engineer + SWE </span>
         <br />
-        Based in Ballito,
+        Based in Gwalior,
         <br />
-        <span>South Africa</span>.
+        <span>India</span>.
       </h1>
       <h3>
-        I have been doing web development <span>since IE7</span> and have been
-        working as a professional developer for the <span>past 8 years</span>.{" "}
-        {`I'm`} really good at <span>frontend</span> whether its web-based or
-        mobile and have also shipped fairly complex{" "}
-        <span>backends and {`API's`}</span> end-to-end.
+              I am a pre-final year undergraduate student with immense experience in 
+              <span>AI/ML engineering</span> and <span>software development</span>. 
+              I have been working on various projects and have developing a strong 
+              foundation in both <span>frontend</span> and <span>backend</span> technologies. 
+              Besides that, I am also the founder of <span>Offbeats</span>, a youth-led 
+              community and network creating experience and culture for students across India.
       </h3>
     </Content>
     <Sticky />

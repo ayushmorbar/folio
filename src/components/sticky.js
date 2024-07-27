@@ -12,20 +12,20 @@ const Sticky = () => {
       <div>
         <h3>Where to find me</h3>
         <Social
-          href="https://www.linkedin.com/in/dale-french-63101451/"
+          href="https://www.linkedin.com/in/ayushmorbar/"
           target="_blank"
           color={"#0073b1"}
         >
           LinkedIn
         </Social>
         <Social
-          href="https://github.com/dale-french"
+          href="https://github.com/ayushmorbar/"
           target="_blank"
           color={"#24292e"}
         >
           GitHub
         </Social>
-        <Social href="mailto:hello@dalefrench.dev" color={"#d93025"}>
+        <Social href="mailto:ayushmorbar@rjit.ac.in" color={"#d93025"}>
           Mail
         </Social>
       </div>

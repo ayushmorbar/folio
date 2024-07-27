@@ -1,9 +1,9 @@
 {
   "name": "me",
   "private": true,
-  "description": "My personal website",
+  "description": "My personal site",
   "version": "2.0.3",
-  "author": "Dale French <hello@dalefrench.dev>",
+  "author": "Ayush Morbar",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.7",
     "gatsby": "^2.18.12",
@@ -43,6 +43,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dale-french/me"
+    "url": "https://github.com/ayushmorbar/portfolio"
   }
 }

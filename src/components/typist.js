@@ -2,13 +2,15 @@ import React from "react"
 import Typist from "react-typist"
 
 const things_I_like = [
-  "React",
-  "Next.js",
-  "React Native",
-  "Gatsby",
-  "Styled Components",
-  "Node.js",
-  "GraphQL",
+  "Machine Learning",
+  "Deep Learning",
+  "Data Science",
+  "Artificial Intelligence",
+  "Software Engineering",
+  "Frontend Development",
+  "Backend Development",
+  "Open Source",
+  "Community Building",
 ]
 
 const TypistComponent = () => (

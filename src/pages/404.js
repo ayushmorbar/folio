@@ -29,14 +29,14 @@ const Section = styled.section`
     font-size: 8rem;
     color: ${theme.colors.black};
     span {
-      color: ${theme.colors.blue};
+      color: ${theme.colors.green};
     }
   }
   h3 {
     color: ${theme.colors.black};
     font-size: 2.5rem;
     span {
-      color: ${theme.colors.blue};
+      color: ${theme.colors.green};
     }
   }
 `

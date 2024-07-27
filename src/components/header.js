@@ -10,7 +10,7 @@ const Header = () => {
   return (
     <StyledHeader>
       <Logo href="/" darkMode={darkMode}>
-        D<span>/</span>F
+        A<span>/</span>M
       </Logo>
       <ToggleContainer>
         <DarkModeToggle
